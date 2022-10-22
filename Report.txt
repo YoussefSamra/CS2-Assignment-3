@@ -1,0 +1,13 @@
+Created Struct Node to create the list
+
+
+
+Classes:
+	Linked list Class:
+		Has the option to add/remove Nodes
+			Print list data
+			and assign a vector's data to it
+			
+In main:
+We declare a vector let the user put its values
+then give its values to the Linkedlist in which the linked list shows the sum of all the values 
